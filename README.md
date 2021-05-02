@@ -11,6 +11,7 @@ The main objective of this project is to avoid the congestion in the car parking
 By implementing a smart parking system, we can reduce traffic by making it easier to locate empty parking spaces, thus lowering the risk of distracted driving. It can also automate the payment process to make the process of going out smoother. Overall, we aim that our parking system would save time and provide comfortable hassle-free parking experience to the users.
 
 3.	Features and Functionalities
+
 a.	Automated Parking access
 The Car Parking System will control and track parking facility requirements, and it will be designed to control car parking slots and provide management with valuable reports and details. 
 
